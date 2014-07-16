@@ -6,3 +6,4 @@
 standard-app-packages
 velocity
 cucumber
+velocity-html-reporter

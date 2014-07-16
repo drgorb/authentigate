@@ -1,6 +1,7 @@
 {
   "packages": {
     "velocity": {},
-    "cucumber": {}
+    "cucumber": {},
+    "velocity-html-reporter": {}
   }
 }
